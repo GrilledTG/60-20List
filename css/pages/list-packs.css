@@ -1,6 +1,5 @@
 .page-list-packs .pack-selector {
   display: flex;
-  flex-wrap: wrap;
   flex-direction: column;
   flex-wrap: nowrap;
   gap: 1rem;
