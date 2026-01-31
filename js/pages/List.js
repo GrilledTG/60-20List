@@ -129,7 +129,7 @@ export default {
                         Physics bypass can only be used for framerates 240 and under (0-240). Levels verified in 2.1 can be beaten in their respective fps (59-360). CBF is its own framerate.
                     </p>
                     <p>
-                        Physics bypass can only be used for framerates 240 and under (0-240). Levels verified in 2.1 can be beaten in their respective fps (59-360). CBF is its own framerate.
+                        Handcam is REQUIRED for completions/verifications within the top 20, and is recommended for levels within the top 50.
                     </p>
                     <p>
                         Rebinding keys IS allowed as long as you use only 2 or less keys!
