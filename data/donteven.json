@@ -6,7 +6,7 @@
     "verifier": "meow24",
     "verification": "https://youtu.be/ckW3V9nT52w",
     "percentToQualify": "100",
-    "handcam": 1,
+    "handcam": 2,
     "device": "All, devices with a 22.2cps cap or higher",
     "fps": "100",
     "records": [
