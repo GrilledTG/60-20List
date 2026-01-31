@@ -132,7 +132,7 @@ export default {
                         Rebinding keys IS allowed as long as you use only 2 or less keys!
                     </p>
                     <p>
-                         It may say Spam "Challenge" List, however there is not really a time limit.
+                         It may say Spam "Challenge" List, however there is not really a time limit. test dih
                     </p>
                 </div>
             </div>
