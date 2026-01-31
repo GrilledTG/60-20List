@@ -129,10 +129,13 @@ export default {
                         Physics bypass can only be used for framerates 240 and under (0-240). Levels verified in 2.1 can be beaten in their respective fps (59-360). CBF is its own framerate.
                     </p>
                     <p>
+                        Physics bypass can only be used for framerates 240 and under (0-240). Levels verified in 2.1 can be beaten in their respective fps (59-360). CBF is its own framerate.
+                    </p>
+                    <p>
                         Rebinding keys IS allowed as long as you use only 2 or less keys!
                     </p>
                     <p>
-                         It may say Spam "Challenge" List, however there is not really a time limit. test dih
+                         It may say Spam "Challenge" List, however there is not really a time limit.
                     </p>
                 </div>
             </div>
