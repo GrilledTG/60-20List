@@ -108,7 +108,7 @@ export default {
                         The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning.
                     </p>
                     <p>
-                        You are allowed to use any methods of spamming, but certain methods are disallowed for specific levels.
+                        All levels on this list have to be 60fps and use a form of 2/1 frames spam, doesnt matter if its upwards, downwards, or straight.
                     </p>
                     <p>
                         The lowest respawn time is 0.5 seconds.
@@ -117,25 +117,13 @@ export default {
                         A maximum of 2 inputs are allowed when spamming.
                     </p>
                     <p>
-                        Hardware is specific to each level. 
-                    </p>
-                    <p>
-                        You must beat a level on its listed fps.
+                        You must beat a level ON 60fps!!
                     </p>
                     <p>
                         Uncapped devices have a debounce delay of 10ms or less. To find the debounce delay for your device visit <a style="color: #03bafc" href="https://clickspeedtester.com/keyboard-latency-test/">this site</a> and try to get the shortest keypress possible.
                     </p>
                     <p>
-                        Physics bypass can only be used for framerates 240 and under (0-240). Levels verified in 2.1 can be beaten in their respective fps (59-360). CBF is its own framerate.
-                    </p>
-                    <p>
-                        Handcam is REQUIRED for completions/verifications within the top 20, and is recommended for levels within the top 50.
-                    </p>
-                    <p>
                         Rebinding keys IS allowed as long as you use only 2 or less keys!
-                    </p>
-                    <p>
-                         It may say Spam "Challenge" List, however there is not really a time limit.
                     </p>
                 </div>
             </div>
